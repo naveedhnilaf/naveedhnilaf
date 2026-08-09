@@ -78,17 +78,10 @@ A point-of-sale system for retail businesses with inventory tracking, sales repo
 A full-featured management system for handling records, staff, and workflows with an admin dashboard.
 `Laravel` `PHP` `MySQL`
 
-### 📱  Futsal Court Booking Mobile App(your-repo-link)
+### 📱  Futsal Court Booking Mobile App(Loarding...)
 A cross-platform mobile app built for [purpose], with offline support and Firebase integration.
 `React Native` `Firebase`
 
-### 🌐 [Project Name — Web App](your-repo-link)
-A responsive web application solving [problem], with authentication and RESTful API integration.
-`React` `Node.js` `MongoDB`
-
-> 💡 *Replace the links and descriptions above with your actual repositories — pin these same 4-6 repos on your profile page for maximum recruiter visibility.*
-
----
 
 ## 📊 GitHub Statistics
 
