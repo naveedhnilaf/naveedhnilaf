@@ -96,13 +96,59 @@ Point-of-sale platform with inventory tracking, sales reporting, and multi-user 
 
 [🔗 View Repository](https://github.com/naveedhnilaf/pos-system.git)
 
-### 🏢  Student Management System(https://github.com/naveedhnilaf/student-management.git)
-A full-featured management system for handling records, staff, and workflows with an admin dashboard.
+### 🏢 Student Management System
+<table>
+<tr>
+<td width="70%">
+
+**Type:** Full-Stack Web App  
+A full-featured management system for handling student records, staff, and workflows with an admin dashboard.
+
 `Laravel` `PHP` `MySQL`
 
-### 📱  Futsal Court Booking Mobile App(Loarding...)
-A cross-platform mobile app built for [purpose], with offline support and Firebase integration.
+</td>
+<td width="30%" align="center">
+
+**Rating**  
+⭐⭐⭐⭐
+
+![Frontend](https://img.shields.io/badge/Frontend-75%25-D14836?style=flat-square)  
+![Backend](https://img.shields.io/badge/Backend-88%25-D14836?style=flat-square)  
+![Database](https://img.shields.io/badge/Database-82%25-D14836?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+[🔗 View Repository](https://github.com/naveedhnilaf/student-management)
+
+---
+
+### 📱 Futsal Court Booking App
+<table>
+<tr>
+<td width="70%">
+
+**Type:** Cross-Platform Mobile App  
+A mobile app for booking futsal courts, with real-time availability, offline support, and Firebase integration.
+
 `React Native` `Firebase`
+
+</td>
+<td width="30%" align="center">
+
+**Rating**  
+⭐⭐⭐⭐
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-85%25-47A248?style=flat-square)  
+![Functionality](https://img.shields.io/badge/Functionality-80%25-47A248?style=flat-square)  
+![Sync](https://img.shields.io/badge/Sync-75%25-47A248?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+🔧 *Repository coming soon*`
 
 ---
 
