@@ -70,15 +70,15 @@ I'm a Software Engineering graduate passionate about building **full-stack web a
 
 ## 🚀 Featured Projects
 
-### 🧾 [Project Name — POS System](your-repo-link)
+### 🧾  POS System(https://github.com/naveedhnilaf/pos-system.git)
 A point-of-sale system for retail businesses with inventory tracking, sales reporting, and multi-user roles.
 `React` `Node.js` `Express.js` `MySQL`
 
-### 🏢 [Project Name — Management System](your-repo-link)
+### 🏢  Student Management System(https://github.com/naveedhnilaf/student-management.git)
 A full-featured management system for handling records, staff, and workflows with an admin dashboard.
 `Laravel` `PHP` `MySQL`
 
-### 📱 [Project Name — Mobile App](your-repo-link)
+### 📱  Futsal Court Booking Mobile App(your-repo-link)
 A cross-platform mobile app built for [purpose], with offline support and Firebase integration.
 `React Native` `Firebase`
 
