@@ -70,9 +70,31 @@ I'm a Software Engineering graduate passionate about building **full-stack web a
 
 ## 🚀 Featured Projects
 
-### 🧾  POS System(https://github.com/naveedhnilaf/pos-system.git)
-A point-of-sale system for retail businesses with inventory tracking, sales reporting, and multi-user roles.
+### 🎮 POS System
+<table>
+<tr>
+<td width="70%">
+
+**Type:** Full-Stack Web App  
+Point-of-sale platform with inventory tracking, sales reporting, and multi-user roles.
+
 `React` `Node.js` `Express.js` `MySQL`
+
+</td>
+<td width="30%" align="center">
+
+**Rating**  
+⭐⭐⭐⭐⭐
+
+![Frontend](https://img.shields.io/badge/Frontend-90%25-2E9EF7?style=flat-square)  
+![Backend](https://img.shields.io/badge/Backend-85%25-2E9EF7?style=flat-square)  
+![Database](https://img.shields.io/badge/Database-80%25-2E9EF7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+[🔗 View Repository](https://github.com/naveedhnilaf/pos-system.git)
 
 ### 🏢  Student Management System(https://github.com/naveedhnilaf/student-management.git)
 A full-featured management system for handling records, staff, and workflows with an admin dashboard.
