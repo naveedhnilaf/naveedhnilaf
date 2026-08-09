@@ -82,6 +82,7 @@ A full-featured management system for handling records, staff, and workflows wit
 A cross-platform mobile app built for [purpose], with offline support and Firebase integration.
 `React Native` `Firebase`
 
+---
 
 ## 📊 GitHub Statistics
 
